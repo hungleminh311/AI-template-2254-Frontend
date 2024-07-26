@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Empower Your Projects with Precision and Expertise",
+        "title": "Innovative Engineering \u0026 Development Solutions"
+      }
+    }
+  ],
+  "theme": "gradient",
+  "font": "",
+  "title": "Innovative Engineering \u0026 Development Solutions",
+  "subtitle": "Empower Your Projects with Precision and Expertise"
+}
